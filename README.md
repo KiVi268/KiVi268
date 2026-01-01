@@ -26,3 +26,6 @@ location: Europe/Moscow
 os_desktop: Zorin OS
 os_server: Ubuntu Server (Headless)
 current_quest: [ "Configuring VPNs", "Mastering CLI", "Automating Everything" ]
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KiVi268&theme=git_dark&no-frame=true&no-bg=true&margin-w=4" />
+</div>
