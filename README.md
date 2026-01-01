@@ -21,7 +21,7 @@
 ```yaml
 user: kivi
 hostname: kivipi
-role: SysAdmin Enthusiast & Tinkerer
+role: SysAdmin Backend Enthusiast & Tinkerer
 location: Europe/Moscow
 os_desktop: Zorin OS
 os_server: Ubuntu Server (Headless)
