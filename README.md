@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KiVi268/KiVi268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=450&lines=kivi@github:~$+sudo+su;Access+Granted...;Loading+System+Admin+Profile;Subject:+Linux,+Servers,+Networks;Status:+Building+HomeLab..." alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Zorin_OS-0092D8?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/CasaOS-00cc33?style=for-the-badge&logo=casaos&logoColor=white" alt="CasaOS" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🖥️ System Configuration (`/etc/profile`)
+
+```yaml
+user: kivi
+hostname: kivipi
+role: SysAdmin Enthusiast & Tinkerer
+location: Europe/Moscow
+os_desktop: Zorin OS
+os_server: Ubuntu Server (Headless)
+current_quest: [ "Configuring VPNs", "Mastering CLI", "Automating Everything" ]
