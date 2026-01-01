@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KiVi268&theme=git_dark&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-<div align="center">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=450&lines=kivi@github:~$+sudo+su;Access+Granted...;Loading+System+Admin+Profile;Subject:+Linux,+Servers,+Networks;Status:+Building+HomeLab..." alt="Typing SVG" />
