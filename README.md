@@ -16,14 +16,25 @@
 
 ---
 
-### 🖥️ System Configuration (`/etc/profile`)
+### 🖥️ System Profile (`/etc/profile`)
 
 ```yaml
 user: kivi
 hostname: kivipi
-role: SysAdmin Backend Enthusiast & Tinkerer
-location: Europe/Moscow
+role: Backend & DevOps
 os_desktop: Zorin OS
-os_server: Ubuntu Server (Headless)
-current_quest: [ "Configuring VPNs", "Mastering CLI", "Automating Everything" ]
-
+os_server:
+  - Ubuntu Server (Headless)
+  - Raspberry Pi + CasaOS
+languages:
+  - Java
+  - Bash
+  - Python
+focus:
+  - Clean code
+  - System understanding
+  - Practical engineering
+current_quest:
+  - Building and maintaining HomeLab
+  - Writing backend logic without overengineering
+  - Learning networking from fundamentals
